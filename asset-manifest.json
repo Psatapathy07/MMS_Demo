@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MMS.Demo/static/css/main.7f4e4973.css",
+    "main.js": "/MMS.Demo/static/js/main.56a77139.js",
+    "static/js/787.08f4e97d.chunk.js": "/MMS.Demo/static/js/787.08f4e97d.chunk.js",
+    "index.html": "/MMS.Demo/index.html",
+    "main.7f4e4973.css.map": "/MMS.Demo/static/css/main.7f4e4973.css.map",
+    "main.56a77139.js.map": "/MMS.Demo/static/js/main.56a77139.js.map",
+    "787.08f4e97d.chunk.js.map": "/MMS.Demo/static/js/787.08f4e97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4e4973.css",
+    "static/js/main.56a77139.js"
+  ]
+}
